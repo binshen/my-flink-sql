@@ -1,3 +1,6 @@
+// https://cloud.tencent.com/developer/article/1450865
+// https://segmentfault.com/a/1190000019040105
+
 package com.dline;
 
 import org.apache.flink.api.common.functions.MapFunction;
